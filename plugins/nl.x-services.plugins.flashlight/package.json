@@ -1,0 +1,26 @@
+{
+    "version": "2.0.3",
+    "name": "nl.x-services.plugins.flashlight",
+    "cordova_name": "Flashlight",
+    "description": "\n    This plugin allows you switch the Flashlight / Torch of your device on or off.\n  ",
+    "license": "MIT",
+    "repo": "https://github.com/EddyVerbruggen/Flashlight-PhoneGap-Plugin.git",
+    "issue": "https://github.com/EddyVerbruggen/Flashlight-PhoneGap-Plugin/issues",
+    "keywords": [
+        "Torch",
+        " Flashlight",
+        " Flash",
+        " Light"
+    ],
+    "platforms": [
+        "ios",
+        "android",
+        "wp8"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}

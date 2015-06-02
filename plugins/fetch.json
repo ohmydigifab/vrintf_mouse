@@ -1,0 +1,14 @@
+{
+    "nl.x-services.plugins.flashlight": {
+        "source": {
+            "type": "registry",
+            "id": "nl.x-services.plugins.flashlight"
+        }
+    },
+    "org.apache.cordova.console": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.console"
+        }
+    }
+}
